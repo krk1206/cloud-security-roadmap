@@ -1,11 +1,11 @@
-# 🛡️ Cloud Security & DevSecOps Roadmap
+# Cloud Security & DevSecOps Roadmap
 
-> 사이버보안 전공자의 **클라우드 인프라, DevSecOps 및 클라우드 보안** 학습 및 프로젝트 기록 공간입니다.
-> 단순 기능 구현을 넘어 **"최소 권한의 원칙"**과 **"공격 표면 축소"**를 고려한 인프라 설계를 목표로 합니다.
+> 사이버보안 전공자의 클라우드 인프라, DevSecOps 및 클라우드 보안 학습 및 프로젝트 기록 공간입니다.
+> 단순 기능 구현을 넘어 "최소 권한의 원칙"과 "공격 표면 축소"를 고려한 인프라 설계를 목표로 합니다.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `01-linux-basics`: 리눅스 핵심 명령어, 권한 관리(Permissions), 프로세스 및 데몬 이해
 - `02-network-basics`: OSI 7 Layer, TCP/IP, 포트 스캔 및 ufw 방화벽을 통한 네트워크 보안 기초
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Environment & Tools
+## Environment & Tools
 - **OS**: WSL (Ubuntu)
 - **Cloud**: AWS, OpenStack
 - **Container**: Docker, Kubernetes
@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Current Goal (2026 방학 골든타임)
+## Current Goal (2026 여름 방학)
 - [x] Linux & Network Basics 복습 및 정리
 - [ ] Docker 컨테이너 기본 실습 및 웹 서버 배포 (`04-container-basics`)
 - [ ] AWS SAA 자격증 개념 정리 및 덤프 분석
